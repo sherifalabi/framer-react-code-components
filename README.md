@@ -2,7 +2,7 @@ Framer React Code Components
 
 A growing collection of reusable Framer code components, React overrides, and interactive UI experiments built to create polished, responsive web experiences.
 
-Created by Sherif Alabi, Design Engineer and founder of CraftVra.
+Created by Sherif Alabi, Design Engineer and founder of craftvra.com.
 
 About
 
